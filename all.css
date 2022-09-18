@@ -1,6 +1,23 @@
+@font-face {
+    font-family: "ithral";
+    src: url(asset/font/ithra-light.otf) format("opentype");
+}
+
+@font-face {
+    font-family: "ithrab";
+    src: url(asset/font/ithra-bold.otf) format("opentype");
+}
+
+@font-face {
+    font-family: "ithram";
+    src: url(asset/font/ithra-medium.otf) format("opentype");
+}
+
 body {
     height: 1024px;
     width: 1366px;
+    max-width: 1366px;
+    max-height: 1024px;
     background-color: #A8BC4D;
 }
 
@@ -27,7 +44,7 @@ body {
     position: absolute;
     color: #768a1b;
     margin-top: 337px;
-    font-family: 'ithra';
+    font-family: 'ithram';
     font-size: 36px;
 }
 
@@ -36,7 +53,7 @@ body {
     color: #304A2e;
     margin-top: 439px;
     margin-left: 246px;
-    font-family: 'ithra';
+    font-family: 'ithram';
     font-size: 36px;
 }
 
@@ -45,7 +62,7 @@ body {
     color: #304A2e;
     margin-top: 439px;
     margin-left: 550px;
-    font-family: 'ithra';
+    font-family: 'ithram';
     font-size: 36px;
 }
 
@@ -58,7 +75,7 @@ body {
     border-radius: 74px;
     border: #dddd;
     text-align: right;
-    font-family: 'ithra';
+    font-family: 'ithram';
     font-size: 18px;
     color: #717171;
     padding-right: 26px;
@@ -74,7 +91,7 @@ body {
     height: 56px;
     border-radius: 35px;
     border: 0px;
-    font-family: 'ithra';
+    font-family: 'ithram';
     font-size: 16px;
 }
 
@@ -104,7 +121,7 @@ body {
 .mass {
     position: absolute;
     color: #304A2e;
-    font-family: 'ithra';
+    font-family: 'ithram';
     font-size: 36px;
     font-style: bold;
     margin-top: 216px;
@@ -115,7 +132,7 @@ body {
     background-color: #43287e;
     color: #ffff;
     position: absolute;
-    font-family: 'ithra';
+    font-family: 'ithram';
     font-size: 16px;
     margin-top: 328px;
     margin-left: 174px;
