@@ -25,6 +25,7 @@ body {
     position: absolute;
     margin-top: 78px;
     margin-left: 78px;
+    width: 66px;
 }
 
 .hkaya {
@@ -51,18 +52,18 @@ body {
 .q {
     position: absolute;
     color: #304A2e;
-    margin-top: 439px;
+    margin-top: 418px;
     margin-left: 246px;
-    font-family: 'ithram';
+    font-family: 'ithrab';
     font-size: 36px;
 }
 
 .q1 {
     position: absolute;
     color: #304A2e;
-    margin-top: 439px;
+    margin-top: 418px;
     margin-left: 550px;
-    font-family: 'ithram';
+    font-family: 'ithrab';
     font-size: 36px;
 }
 
@@ -75,7 +76,7 @@ body {
     border-radius: 74px;
     border: #dddd;
     text-align: right;
-    font-family: 'ithram';
+    font-family: 'ithral';
     font-size: 18px;
     color: #717171;
     padding-right: 26px;
@@ -91,7 +92,7 @@ body {
     height: 56px;
     border-radius: 35px;
     border: 0px;
-    font-family: 'ithram';
+    font-family: 'ithrab';
     font-size: 16px;
 }
 
@@ -104,7 +105,7 @@ body {
 
 .box {
     position: absolute;
-    background-color: #aec253;
+    background-color: #a1b54a;
     width: 634px;
     height: 430px;
     margin-top: 270px;
@@ -132,7 +133,7 @@ body {
     background-color: #43287e;
     color: #ffff;
     position: absolute;
-    font-family: 'ithram';
+    font-family: 'ithrab';
     font-size: 16px;
     margin-top: 328px;
     margin-left: 174px;
@@ -140,4 +141,40 @@ body {
     height: 56px;
     border-radius: 35px;
     border: 0px;
+}
+
+.team {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
+}
+
+.teamE {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
+}
+
+.teamS {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
+}
+
+.teamW {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
 }

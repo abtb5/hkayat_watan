@@ -1,0 +1,182 @@
+t-face {
+    font-family: "ithral";
+    src: url(asset/font/ithra-light.otf) format("opentype");
+}
+
+@font-face {
+    font-family: "ithrab";
+    src: url(asset/font/ithra-bold.otf) format("opentype");
+}
+
+@font-face {
+    font-family: "ithram";
+    src: url(asset/font/ithra-medium.otf) format("opentype");
+}
+
+body {
+    height: 926px;
+    width: 428px;
+    max-width: 428px;
+    max-height: 926px;
+    background-color: #A8BC4D;
+}
+
+.cel {
+    position: absolute;
+    margin-top: 36px;
+    margin-left: 32px;
+    width: 52px;
+}
+
+.hkaya {
+    position: absolute;
+    margin-top: 69px;
+    margin-left: 156px;
+    width: 108px;
+}
+
+.logo {
+    position: absolute;
+    margin-top: 36px;
+    margin-left: 321px;
+    width: 75px;
+}
+
+.title {
+    margin-left: 184px;
+    position: absolute;
+    color: #768a1b;
+    margin-top: 382px;
+    font-family: 'ithram';
+    font-size: 16px;
+}
+
+.q {
+    position: absolute;
+    color: #304A2e;
+    margin-top: 432px;
+    margin-left: 53px;
+    font-family: 'ithrab';
+    font-size: 16px;
+}
+
+.q1 {
+    position: absolute;
+    color: #304A2e;
+    margin-top: 432px;
+    margin-left: 53px;
+    font-family: 'ithrab';
+    font-size: 16px;
+}
+
+.text {
+    position: absolute;
+    margin-top: 512px;
+    margin-left: 137px;
+    height: 32px;
+    width: 255px;
+    border-radius: 74px;
+    border: #dddd;
+    text-align: right;
+    font-family: 'ithral';
+    font-size: 14px;
+    color: #717171;
+    padding-right: 26px;
+}
+
+.submit {
+    background-color: #43287e;
+    color: #ffff;
+    position: absolute;
+    margin-top: 512px;
+    margin-left: 36px;
+    width: 85px;
+    height: 32px;
+    border-radius: 35px;
+    border: 0px;
+    font-family: 'ithrab';
+    font-size: 14px;
+}
+
+.lines {
+    position: absolute;
+    width: 926px;
+    margin-top: 684px;
+    margin-left: -7px;
+}
+
+.box {
+    position: absolute;
+    background-color: #a1b54a;
+    width: 634px;
+    height: 430px;
+    margin-top: 270px;
+    margin-left: 366px;
+    border-radius: 40px;
+}
+
+.right {
+    position: absolute;
+    margin-top: 56px;
+    margin-left: 248px;
+}
+
+.mass {
+    position: absolute;
+    color: #304A2e;
+    font-family: 'ithram';
+    font-size: 36px;
+    font-style: bold;
+    margin-top: 216px;
+    margin-left: 151px;
+}
+
+.next {
+    background-color: #43287e;
+    color: #ffff;
+    position: absolute;
+    font-family: 'ithrab';
+    font-size: 16px;
+    margin-top: 328px;
+    margin-left: 174px;
+    width: 286px;
+    height: 56px;
+    border-radius: 35px;
+    border: 0px;
+}
+
+.team {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
+}
+
+.teamE {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
+}
+
+.teamS {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
+}
+
+.teamW {
+    font-family: 'ithram';
+    font-size: 36px;
+    position: absolute;
+    margin-top: 930px;
+    margin-left: 78px;
+    color: #304A2e;
+}
