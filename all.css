@@ -178,3 +178,5 @@ body {
     margin-left: 78px;
     color: #304A2e;
 }
+
+@media screen and (max-width: 600px) {}
